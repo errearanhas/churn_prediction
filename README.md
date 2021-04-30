@@ -5,7 +5,7 @@ Customer churn occurs when customers stop using a company’s services. So, by m
 
 Here, I use a machine learning to build a churn prediction model based on customer attributes from <a href="https://www.kaggle.com/blastchar/telco-customer-churn" target="_blank">Telco Customer dataset</a>. This dataset contains 7043 rows (customers) and 21 columns (features).
 
-Also, the final model is deployed in production and can be tested <a href="https://telco-churn-app.herokuapp.com/" target="_blank">HERE<a/>. Just provide some data about a customer, and the system will classify it as CHURN or NO CHURN.
+Also, the final model (an ensemble of SVC, Gradient Boosting and Logistic Regression) is deployed in production and can be tested <a href="https://telco-churn-app.herokuapp.com/" target="_blank">HERE<a/>. Just provide some data about a customer, and the system will classify it as CHURN or NO CHURN.
 The application platform used was Heroku.
 
 The project is organized as follows:
