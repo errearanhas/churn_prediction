@@ -1,5 +1,5 @@
 # Telco Customer Churn Prediction
-## Building and deploy a machine learning model for Churn prediction
+## Building and deploying a machine learning model for Churn prediction
 
 Customer churn occurs when customers stop using a company’s services. So, by monitoring churn, companies become prepared and can develop personalized customer retention campaigns.
 
